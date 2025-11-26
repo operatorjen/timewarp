@@ -1,0 +1,20 @@
+{
+  "name": "timewarp",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/operatorjen/timewarp#readme",
+  "bugs": {
+    "url": "https://github.com/operatorjen/timewarp/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/operatorjen/timewarp.git"
+  },
+  "license": "AGPL-3.0-or-later",
+  "author": "operatorjen",
+  "type": "module",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "node index.test.mjs"
+  }
+}
